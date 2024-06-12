@@ -3,6 +3,7 @@ This is the code used to implement the solutions of Assignment 1 for Reinforceme
 The solution is in two parts: Stationary bandit and Non-stationary bandit
 
 StationaryBandit folder contains the codes for the stationary problem
+
 NonStationaryBandit folder contains the codes for the non-stationary problem
 
 For each case:
